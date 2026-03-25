@@ -21,7 +21,7 @@ Aperto final: Abaixe o carro até que o pneu toque o chão. Retire o macaco e ag
 
 Dica importante: Lembre-se de levar o pneu furado ao borracheiro logo em seguida e verifique se o seu estepe é de "uso temporário" (que limita a velocidade a 80 km/h).
 
-###  Prompt Médio;
+###  Prompt Médio:
 
    *2. Eu preciso trocar o pneu do meu carro em um terreno de pequenas depressões no solo e lama, como fazer?*
 
