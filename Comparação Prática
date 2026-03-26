@@ -1,0 +1,21 @@
+#  Engenharia de Prompt e Aplicações em IA
+
+##  Aula - 02 - Tema: Comparação Prática
+
+###  Prompt Genérico
+  *1. O que é Criptografia?*
+
+Criptografia é a prática de proteger informações transformando dados legíveis (texto comum) em um formato codificado que só pode ser entendido por quem possui a chave correta para decifrá-los.
+
+Explicando de forma simples:
+Imagine que você escreve uma mensagem como:
+“Vou chegar às 18h”
+Com criptografia, essa mensagem vira algo como:
+“Xy9#kL!2p…”
+Sem a “chave”, ninguém consegue entender o conteúdo.
+
+  *2. Agora, atue como um professor/hacker e explique o que é Criptografia e suas características para um iniciante e resuma em dois parágrafos.*
+
+Criptografia é a técnica de transformar informações legíveis em um formato codificado para que apenas quem possui a chave correta consiga entendê-las. Pense como um hacker: o objetivo não é esconder que a mensagem existe, mas torná-la inútil para qualquer interceptador. Esse processo envolve três elementos básicos — a mensagem original, um algoritmo e uma chave — que juntos geram o “texto cifrado”. Hoje, isso é a base da Segurança da Informação e está presente em tudo, desde mensagens no WhatsApp até transações com Bitcoin.
+
+Do ponto de vista prático, a criptografia tem quatro características essenciais: confidencialidade (só quem tem a chave lê), integridade (a informação não foi alterada), autenticidade (garante quem enviou) e não-repúdio (o autor não pode negar a autoria). Existem dois tipos principais: a criptografia simétrica, que usa uma única chave e é mais rápida, e a assimétrica, que usa um par de chaves (pública e privada) e resolve o problema de troca segura de informações. Um hacker experiente sabe que raramente se quebra a matemática por trás da criptografia — o verdadeiro alvo costuma ser a chave, o sistema ou o erro humano.
