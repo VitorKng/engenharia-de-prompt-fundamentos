@@ -81,7 +81,7 @@ print(f"{media_turma:.2f}")
 
 ###  Fluxo de Avaliação
 
-                           | Versão Neutra            | Versão Persona                    | Versão Restritiva     
+                           | Versão Neutra                      | Versão Persona                               | Versão Restritiva     
 
 | **Precisão Lógica**      | Correta, fórmula e exemplo certos. | Correta, código funcional e completo.        | Correta, código funcional.     
 
