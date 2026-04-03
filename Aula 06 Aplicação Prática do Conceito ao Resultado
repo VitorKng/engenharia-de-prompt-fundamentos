@@ -27,6 +27,7 @@ Resultado: média = 8,0
 
 # Sistema para calcular médias de uma turma
 
+'''Python
 quantidade_alunos = int(input("Quantos alunos há na turma? "))
 quantidade_notas = int(input("Quantas notas por aluno? "))
 
@@ -63,6 +64,7 @@ print("============================")
 
 "Sou um professor da área de TI de uma Universidade de Ensino, me dê um código funcional para calcular a média de notas de uma turma de alunos. Use apenas saída em Python e não use aplicações em texto."
 
+'''Python
 quantidade_alunos = int(input())
 quantidade_notas = int(input())
 
@@ -82,6 +84,7 @@ print(f"{media_turma:.2f}")
 ###  Fluxo de Avaliação
 
                            | Versão Neutra                      | Versão Persona                               | Versão Restritiva     
+
 
 | **Precisão Lógica**      | Correta, fórmula e exemplo certos. | Correta, código funcional e completo.        | Correta, código funcional.     
 
